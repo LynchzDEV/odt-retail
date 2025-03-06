@@ -1,0 +1,19 @@
+{
+  "name": "bun-elysiajs-htmx-getting-started",
+  "version": "1.0.50",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bun run --watch src/index.tsx"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^0.8.0",
+    "dotenv": "^16.4.7",
+    "elysia": "latest",
+    "nodemailer": "^6.10.0"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.17",
+    "bun-types": "latest"
+  },
+  "module": "src/index.js"
+}
