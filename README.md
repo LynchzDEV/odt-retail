@@ -1,7 +1,5 @@
 # Elysia with Bun runtime
 
-# SOME FEATURE OF `CART` and `TOAST` STILL NOT WORKING PROPERLY.
-
 ## Getting Started
 To get started with this template, simply paste this command into your terminal:
 ```bash
